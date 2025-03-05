@@ -42,8 +42,6 @@
 
   - 💬 Ask me about **MERN stack and related technologies**
 
-  - 📫 How to reach me **suptechie@outlook.com**
-
   - ⚡ Fun fact **Football fanatic**
 </p>
 <p>
