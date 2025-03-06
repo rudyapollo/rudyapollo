@@ -48,4 +48,12 @@
 🔗 Do you want to contact me? Then send me an <a href="mailto:rudyapollo.0512@gmail.com?subject=[GitHub]%20🔥%20Contact%20us&body=Hello%20rudyapollo%2C%0A%0AI'm%20coming %20to%20you%20today%20after%20seeing%20your%20GitHub%20profile%20for...">email</a>, or go to my <a href="https://">site</a>!
 </p><br/>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<h1 align="center">My GitHub Stats</h1>
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=suptechie&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=suptechie&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=suptechie&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
