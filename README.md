@@ -44,7 +44,7 @@
   - ⚡ Fun fact **Football fanatic**
 </p>
 <p>
-🔗 Do you want to contact me? Then send me an <a href="mailto:rudyapollo.0512@gmail.com?subject=[GitHub]%20🔥%20Contact%20us&body=Hello%20rudyapollo%2C%0A%0AI'm%20coming %20to%20you%20today%20after%20seeing%20your%20GitHub%20profile%20for...">email</a>, or go to my <a href="https://">site</a>!
+🔗 Do you want to contact me? Then send me an <a href="mailto:rudyapollo.0512@gmail.com?subject=[GitHub]%20🔥%20Contact%20us&body=Hello%20rudyapollo%2C%0A%0AI'm%20coming %20to%20you%20today%20after%20seeing%20your%20GitHub%20profile%20for...">email</a>
 </p><br/>
 <table>
   <tr>
