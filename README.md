@@ -28,7 +28,6 @@
 </p>
 <p>
   📣 Need to contact me ? Find me here :<br/>
-<a href="mailto:alexanderliu512@gmail.com?subject=[GitHub]%20🔥%20Contact%20us&body=Hello%20rudyapollo%2C%0A%0AI'm%20coming %20to%20you%20today%20after%20seeing%20your%20GitHub%20profile%20for..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://discord.com/users/kkfiring2473"><img src="https://img.shields.io/badge/discord-4B32C3.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://t.me/rudyapollo_0512"><img src="https://img.shields.io/badge/telegram-23A9F2.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://steamcommunity.com/profiles/76561199807589833"><img src="https://img.shields.io/badge/steam-181717.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
@@ -43,9 +42,6 @@
 
   - ⚡ Fun fact **Football fanatic**
 </p>
-<p>
-🔗 Do you want to contact me? Then send me an <a href="mailto:rudyapollo.0512@gmail?subject=[GitHub]%20🔥%20Contact%20us&body=Hello%20Alexander%2C%0A%0AI'm%20coming %20to%20you%20today%20after%20seeing%20your%20GitHub%20profile%20for...">email</a>
-</p><br/>
 <table>
   <tr>
     <td align="center" width="96">
