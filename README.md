@@ -26,19 +26,11 @@
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
   </p>
 </p>
-<p>
-  📣 Need to contact me ? Find me here :<br/>
-<a href="https://discord.com/users/kkfiring2473"><img src="https://img.shields.io/badge/discord-4B32C3.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://t.me/rudyapollo_0512"><img src="https://img.shields.io/badge/telegram-23A9F2.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://steamcommunity.com/profiles/76561199807589833"><img src="https://img.shields.io/badge/steam-181717.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
-</p>
 <h3>⚡️ A Passionate Full Stack Developer ⚡️</h3><br/>
 <p>
   - 🌱 I’m currently learning **Blockchain**
 
-  - 👨‍💻 All of my projects are available at [rudyapollo](rudyapollo)
-
-  - 💬 Ask me about **MERN stack and related technologies**
+  - 💬 Ask me about **MERN stack, PHP/Laravel, Python and related technologies**
 
   - ⚡ Fun fact **Football fanatic**
 </p>
